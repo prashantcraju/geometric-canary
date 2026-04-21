@@ -62,3 +62,15 @@ python steering_real.py
 ```
 
 Results are saved to local output directories within each folder.
+
+
+## Citation
+
+```bibtex
+@article{raju2026canary,
+  title = {The Geometric Canary: Predicting Steerability and Detecting Drift via Representational Stability},
+  author = {Raju, Prashant C.},
+  journal = {arXiv preprint arXiv:2604.17698},
+  year = {2026}
+}
+```
